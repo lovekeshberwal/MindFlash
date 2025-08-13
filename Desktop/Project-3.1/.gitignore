@@ -1,0 +1,20 @@
+# Node and tooling (if you experiment locally)
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Builds / caches
+dist/
+.tmp/
+.cache/
+
+# Env files (not used, but safe to ignore)
+.env
+.env.*
